@@ -1,3 +1,3 @@
 # HTML.CSS-FACULDADE
-Exercícios da faculdade em HTML/CSS
-teste
+
+Exercicios do primeiro semestre do curso de Ciência da Computação nas ferramentas HTML/CSS
